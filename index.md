@@ -3,4 +3,7 @@
 ```Python
 print('Hello World')
 ```
+- [x] Make shopping List
+- [x] Shop for dinner
+- [ ] Make Dinner 
 
